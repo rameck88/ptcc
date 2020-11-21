@@ -1,0 +1,34 @@
+git init // inicia a linha do tempo
+
+git add nome.php //adicionar mudanças no git
+
+git commit -m "descrição" //criar pontos na linha do tempo
+
+git log // mostra historico commits
+
+git status // estado de desenvolvimento do git
+
+git show //apresente derterminado ponto na historia
+
+git branch // gerencia novas linas do tempo
+
+git checkout //manipula linhas do tempo
+
+git merge // une linhas do tempo
+
+git push -u origin main //joga pra nuvem 
+
+git pull //baixa att na nuvem
+
+git clone https://github.com/rameck88/ptcc.git //link do projeto
+
+
+push an existing repository from the command line
+-->
+****	git remote add origin https://github.com/rameck88/ptcc.git // conecta com github
+	git branch -M main
+	git push --set-upstream origin master//cria pasta raiz pra primeiro envio
+
+
+youtuber ensina git e github
+https://www.youtube.com/watch?v=2alg7MQ6_sI
