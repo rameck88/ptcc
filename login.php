@@ -1,7 +1,6 @@
 <?php
 session_start();
 ?>
-//teste
 <!doctype html>
 <html>
 	<head>
